@@ -1,2 +1,2 @@
-# Query
-AI based query generator
+
+# AI based query generator
